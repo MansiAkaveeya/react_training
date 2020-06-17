@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MansiAkaveeya/react_training/static/css/main.cfb5a67d.chunk.css",
+    "main.js": "/MansiAkaveeya/react_training/static/js/main.0da62e7a.chunk.js",
+    "main.js.map": "/MansiAkaveeya/react_training/static/js/main.0da62e7a.chunk.js.map",
+    "runtime-main.js": "/MansiAkaveeya/react_training/static/js/runtime-main.6093df29.js",
+    "runtime-main.js.map": "/MansiAkaveeya/react_training/static/js/runtime-main.6093df29.js.map",
+    "static/js/2.b072d574.chunk.js": "/MansiAkaveeya/react_training/static/js/2.b072d574.chunk.js",
+    "static/js/2.b072d574.chunk.js.map": "/MansiAkaveeya/react_training/static/js/2.b072d574.chunk.js.map",
+    "index.html": "/MansiAkaveeya/react_training/index.html",
+    "precache-manifest.225fc319f04cbb1a1d423e1d9438fbbf.js": "/MansiAkaveeya/react_training/precache-manifest.225fc319f04cbb1a1d423e1d9438fbbf.js",
+    "service-worker.js": "/MansiAkaveeya/react_training/service-worker.js",
+    "static/css/main.cfb5a67d.chunk.css.map": "/MansiAkaveeya/react_training/static/css/main.cfb5a67d.chunk.css.map",
+    "static/js/2.b072d574.chunk.js.LICENSE.txt": "/MansiAkaveeya/react_training/static/js/2.b072d574.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MansiAkaveeya/react_training/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6093df29.js",
+    "static/js/2.b072d574.chunk.js",
+    "static/css/main.cfb5a67d.chunk.css",
+    "static/js/main.0da62e7a.chunk.js"
+  ]
+}
