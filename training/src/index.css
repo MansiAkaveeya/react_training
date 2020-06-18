@@ -1,5 +1,5 @@
 body {
-
+  margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -11,20 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.DemoStyle{
-  margin-top: 20px;;
-  display: flex;
-  justify-content: space-around;
-}
-.userDetailsDisplay{
-  display: flex;
-    justify-content: center;
-    margin-top: 90px;
-}
-#btn{
-  font-size: 20px;
-  border-radius: 50px;
-  padding: 23px;
-  background-color: white;
-}
-
