@@ -4,6 +4,8 @@ const User = (props) => {
     debugger
     return (
         <div>
+            <h6>(day-12 HOC)</h6>
+
             <Table striped bordered hover responsive variant="dark">
                 <tr>
                     <th>ID</th>
